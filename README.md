@@ -16,3 +16,5 @@ Most commenly used commands:
 
 
 ## 3. How to run Python code?
+
+See example: Download Sentinel-2 L1C
